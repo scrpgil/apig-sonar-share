@@ -21,4 +21,11 @@ git clone https://github.com/scrpgil/apig-sonar-share.git
 bee run
 ````
 
+conf/app.confにAPI_KEYを記述する箇所があるのでそこに自分のAPI_KEYを入力してください。
+
+````
+[api]
+key=ここに書く
+````
+
 デフォルトはポート80で立ち上がります。
