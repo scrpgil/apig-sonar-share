@@ -1,6 +1,6 @@
 # apig-sonar-share
-APIGのソナー結果をシェアするサーバー  
-[DEMO](http://35.185.8.180/v1/apig/coins)  
+APIGのソナー結果を他の人にシェアするためのサーバー。今のところひとつのAPI_KEYまで対応。 
+[DEMO](http://35.185.8.180/v1/apig/coins)  
 [Swagger](http://35.185.8.180/swagger/)  
 
 # 使い方
